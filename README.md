@@ -90,4 +90,4 @@ The dataset (`Hospital_Data.csv`) has [100] records and the following columns:
 
 **Balkrishna Tripathi**
 Mechanical engineer moving into data analytics
-🔗 [LinkedIn profile link]
+🔗 [www.linkedin.com/in/balkrishna-tripathi-a6955a423]
